@@ -15,6 +15,7 @@ import javax.swing.JFrame;
 public class Cajer extends javax.swing.JFrame implements ActionListener{
 
     /**
+     * 
      * Creates new form Cajer
      */
     public Cajer() {
