@@ -20,4 +20,3 @@ public class Cajero {
         System.out.println("Juan");
     }
     
-}
